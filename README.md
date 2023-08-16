@@ -37,9 +37,7 @@ Repeat the command for PointCloud2.xyz and PointCloud3.xyz
   - [Pipelines](#pipelines)
     - [Fan-out, fan-in](#fan-out-fan-in)
     - [Guidelines for pipeline construction:](#guidelines-for-pipeline-construction)
-  - [Testing](#testing)
-    - [Performance](#performance)
-- [Feedback](#feedback)
+- [Performance](#performance)
 
 # Planning
 
