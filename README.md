@@ -1,13 +1,10 @@
-# ransac-golang
-RANSAC implementation with built-in concurrency using Golang
-
 # Dominant Plane Detection Using RANSAC
 
-A simple implementation of RANSAC algorithm for dominant plane detection in a point cloud.
+RANSAC implementation with built-in concurrency using Golang that detects the dominant planes in a point cloud.
 
 Uses a pipeline architecture to enable concurrent workflows for the computation of the dominant planes.
 
-## Project Structure
+## Execute Program
 
 Run from command line as below:
 
@@ -27,10 +24,9 @@ Repeat the command for PointCloud2.xyz and PointCloud3.xyz
 ## Table of Contents
 
 - [Dominant Plane Detection Using RANSAC](#dominant-plane-detection-using-ransac)
-  - [Project Structure](#project-structure)
+- [Execute Program](#execute-program)
   - [Table of Contents](#table-of-contents)
-- [Planning](#planning)
-  - [Main Program](#main-program)
+- [Main Program](#main-program)
   - [Components](#components)
 - [Research](#research)
   - [Pipelines](#pipelines)
@@ -38,7 +34,6 @@ Repeat the command for PointCloud2.xyz and PointCloud3.xyz
     - [Guidelines for pipeline construction:](#guidelines-for-pipeline-construction)
 - [Performance](#performance)
 
-# Planning
 
 ## Main Program
 
