@@ -25,7 +25,7 @@ Repeat the command for PointCloud2.xyz and PointCloud3.xyz
 
 - [Dominant Plane Detection Using RANSAC](#dominant-plane-detection-using-ransac)
 - [Execute Program](#execute-program)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [Main Program](#main-program)
   - [Components](#components)
 - [Research](#research)
