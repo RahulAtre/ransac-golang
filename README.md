@@ -16,7 +16,7 @@ Repeat the command for PointCloud2.xyz and PointCloud3.xyz
 
 **File Structure:**
 
-- `~/code/` directory contains planeRANSAC.go algorithm
+- `~/code/` directory contains RANSAC algorithm
 - `~/dataset/` directory contains the point cloud files to test the program
 - `~/misc/` directory contains miscellaneous files (java paradigm and pipeline exemplar) 
 - `~/output/` directory contains the output files
