@@ -13,10 +13,9 @@ Run from command line as below:
 
 ```
 go run planeRANSAC.go PointCloud1.xyz 0.99 0.2 0.5
-
-Repeat the command for PointCloud2.xyz and PointCloud3.xyz
 ```
 
+Repeat the command for PointCloud2.xyz and PointCloud3.xyz
 
 **File Structure:**
 
