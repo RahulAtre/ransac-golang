@@ -135,3 +135,5 @@ When the number of values to be sent is known at channel creation time, a buffer
 ### Performance
 
 ![image](https://github.com/RahulAtre/ransac-golang/assets/88638204/035cd558-571b-4b9a-bfb8-639810a44c3e)
+![image](https://github.com/RahulAtre/ransac-golang/assets/88638204/23925611-d018-44d6-b3fd-677930c9b471)
+
