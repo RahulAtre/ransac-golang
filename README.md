@@ -32,7 +32,6 @@ Repeat the command for PointCloud2.xyz and PointCloud3.xyz
   - [Pipelines](#pipelines)
     - [Fan-out, fan-in](#fan-out-fan-in)
     - [Guidelines for pipeline construction:](#guidelines-for-pipeline-construction)
-- [Performance](#performance)
 
 
 ## Main Program
@@ -132,8 +131,5 @@ When the number of values to be sent is known at channel creation time, a buffer
 - When using buffered channels, you could read from the channel even after the channel has been closed by the upstream, as long as there are pending elements to be read in that outbound channel
 - Use done channel pattern to signal cancellation
 
-### Performance
 
-![image](https://github.com/RahulAtre/ransac-golang/assets/88638204/035cd558-571b-4b9a-bfb8-639810a44c3e)
-![image](https://github.com/RahulAtre/ransac-golang/assets/88638204/23925611-d018-44d6-b3fd-677930c9b471)
 
